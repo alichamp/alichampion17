@@ -1,0 +1,49 @@
+head h1{
+    text-align: center;
+    width: 500px;
+    height: 450px;
+    font-size: larger;
+    font-family: sans-serif;
+}
+head h2{
+    text-align: center;
+    width: 450px;
+    height: 300px;
+    font-size: large;
+    font-family: sans-serif;
+}
+head h3{
+    text-align: center;
+    width: 300px;
+    height: 250px;
+    font-size: medium;
+    font-family: sans-serif;
+}
+head p{
+    text-align: center;
+    width: 1000px;
+    font-size: xx-large;
+    color: darkblue;
+    background-color: darkred;
+}
+main{
+    background-color: darkgray;
+}
+img{
+    width: 450px;
+    text-align: center;
+}
+header p{
+    text-align: left;
+    width: 550px;
+    color: red;
+}
+footer p{
+    text-align: left;
+    width: 400px;
+}
+footer a{
+    text-align: right;
+    background-color: blue;
+    color: red;
+}
